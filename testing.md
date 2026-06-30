@@ -1,4 +1,4 @@
-# Features 
+# Features for the testing
 
 This document highlights the major features implemented from the beginning to transform the base Docusaurus framework into a fully functional CMS, and explains the mechanics of how they were achieved.
 
